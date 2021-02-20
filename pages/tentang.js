@@ -1,9 +1,9 @@
 const Tentang = () => {
     return (
-        <div>
+        <main>
             <h1>Tentang</h1>
             <p>Ini adalah halaman tentang.</p>
-        </div>
+        </main>
      );
 }
  
