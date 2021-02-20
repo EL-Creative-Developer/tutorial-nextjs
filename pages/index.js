@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-    <div>
+    <main>
       <h1>Selamat Datang di EL Creative Academy</h1>
-    </div>
+    </main>
   )
 }
