@@ -1,9 +1,9 @@
 const Tes = () => {
     return (
-        <div>
+        <main>
             <h1>Tes</h1>
             <p>Ini adalah halaman tes.</p>
-        </div>
+        </main>
      );
 }
  
