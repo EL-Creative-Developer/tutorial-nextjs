@@ -1,3 +1,5 @@
+> Source Code untuk Bagian 1 - [Belajar Next.js Serta Cara Menggunakannya](https://www.elcreativeacademy.com/2021/02/belajar-nextjs-serta-cara-menggunakannya.html)
+
 Project [Next.js](https://nextjs.org/) bootstrapped dengan [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Memulai
