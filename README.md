@@ -1,3 +1,9 @@
+# Artikel Tutorial Next.js
+> Source Code untuk Bagian 4 - [Menghubungkan Setiap Komponen Halaman pada Next.js](https://www.elcreativeacademy.com/2021/02/menghubungkan-setiap-komponen-halaman.html)
+> 
+
+
+
 Project [Next.js](https://nextjs.org/) bootstrapped dengan [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Memulai
