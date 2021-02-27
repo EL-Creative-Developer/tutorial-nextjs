@@ -1,0 +1,27 @@
+.artikel {
+	margin-bottom: 10px;
+	padding: 12px 24px;
+	border: 0.0625rem solid #dadce0;
+	border-radius: 0.5rem;
+	background: #fff;
+	-webkit-transition: -webkit-box-shadow 218ms;
+	transition: -webkit-box-shadow 218ms;
+	-o-transition: box-shadow 218ms;
+	transition: box-shadow 218ms;
+	transition: box-shadow 218ms, -webkit-box-shadow 218ms;
+}
+.artikel:hover {
+	-webkit-box-shadow: 0 1px 3px 0 rgba(60, 64, 67, 0.3), 0 4px 8px 3px rgba(60, 64, 67, 0.15);
+	box-shadow: 0 1px 3px 0 rgba(60, 64, 67, 0.3), 0 4px 8px 3px rgba(60, 64, 67, 0.15);
+}
+.artikel a {
+	color: inherit;
+}
+.artikel h2 {
+	margin: 10px 0 0 0;
+}
+.artikel p {
+	color: #3c4043;
+	font-size: 0.875rem;
+	line-height: 1.25rem;
+}
